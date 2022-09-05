@@ -1,4 +1,4 @@
-package com.example.rabbitmqjavaproject.basics;
+package com.example.rabbitmqjavaproject;
 
 public class CommonConfigs {
     public static final String DEFAULT_QUEUE = "Queue-1";

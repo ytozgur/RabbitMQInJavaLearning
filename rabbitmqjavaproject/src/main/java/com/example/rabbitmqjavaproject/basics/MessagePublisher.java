@@ -1,5 +1,6 @@
 package com.example.rabbitmqjavaproject.basics;
 
+import com.example.rabbitmqjavaproject.CommonConfigs;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
